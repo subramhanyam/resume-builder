@@ -1,0 +1,6 @@
+\documentclass{article}
+\begin{document}
+
+{\fontsize{20pt}{30pt}\selectfont This is a single line of text in 14pt font size.}
+
+\end{document}
